@@ -9,6 +9,8 @@
 * **SNC HUB과 연동성 확장**
 
 **기존 VEROR는 SNC HUB의 업데이트 기능과 연동되지 않습니다.**
-## Preview
+
+
+## 🖼️Preview
 
 ![Logo](https://github.com/SNICS1/VEROR_2026/releases/download/v26.10.16/0.png)
